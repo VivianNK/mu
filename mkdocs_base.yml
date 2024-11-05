@@ -76,7 +76,9 @@ nav:
     - Overview: "CodeDevelopment/overview.md"
     - Tools and Prerequisite: "CodeDevelopment/prerequisites.md"
     - Compiling: "CodeDevelopment/compile.md"
-    - Testing: "CodeDevelopment/test.md"
+    - Testing:
+      - Overview: "CodeDevelopment/Testing/overview.md"
+      - GoogleTest: "CodeDevelopment/Testing/googletest.md"
     - Code Requirements: "CodeDevelopment/requirements.md"
     - Rust Compiling and Testing: "CodeDevelopment/rust_build.md"
     - Rust Documentation Conventions: "CodeDevelopment/rust_documentation_conventions.md"
